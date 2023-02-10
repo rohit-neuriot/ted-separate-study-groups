@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.leaflet-container {
+  width: 100vw;
+  height: 590px;
+}
+
+.map-marker {
+  height: 14px !important;
+  width: 9px !important;
+}
+
+.select__single-value {
+  text-align: left !important;
+}
+
+.select__menu {
+  text-align: left !important;
+}
